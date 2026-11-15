@@ -6,8 +6,17 @@ I am a doctoral researcher in Measurement and Control Engineering at the **Unive
 
 My work connects **data-driven modeling and machine learning** with real physical systems: from automated sensor measurements and signal processing to simulation, model development, and experimental validation. I also enjoy building robotics and computer-vision projects outside my research work.
 
-## Featured Projects
+**Core technologies**
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge)
+![Arduino](https://img.shields.io/badge/Arduino-00878F?style=for-the-badge&logo=arduino&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
+
+
+## Featured Projects
 ### [Automated Multi-Channel Impedance Spectroscopy](https://github.com/timeflowsinyou/Automated-MultiChannel-Impedance-Spectroscopy)
 *Python · Analog Discovery 2 · Arduino Mega · Multiplexer Control*
 
@@ -17,7 +26,6 @@ An automated measurement platform for multi-frequency complex impedance acquisit
 *Python · PyTorch · CNN · Physical Simulation*
 
 Research exploration of simulated impedance-sensor networks, reduced measurement inputs, and the challenges of transferring trained models to real measurements. The repository documents both results and limitations.
-
 
 ### [ESP32 Self-Balancing Robot](https://github.com/timeflowsinyou/ESP32-Self-Balancing-Robot)
 *Embedded C++ · ESP32 · MPU6050 · Sensor Fusion · PID*
@@ -44,6 +52,15 @@ An interactive hand-gesture-controlled animation with screen capture and dual-mo
 | **Modeling & Simulation** | Physical forward models, synthetic data generation, Sim-to-Real analysis |
 | **Embedded & Computer Vision** | Arduino, ESP32, serial communication, PID control, OpenCV, MediaPipe |
 | **Development Tools** | Git/GitHub, Docker, FastAPI, MLflow, Digilent WaveForms |
+
+**Additional development tools**
+
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge)
 
 ## Education
 
