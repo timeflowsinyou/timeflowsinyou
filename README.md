@@ -6,6 +6,8 @@ I am a doctoral researcher in Measurement and Control Engineering at the **Unive
 
 My work connects **data-driven modeling and machine learning** with real physical systems: from automated sensor measurements and signal processing to simulation, model development, and experimental validation. I also enjoy building robotics and computer-vision projects outside my research work.
 
+I can speak Chinese, German, and English fluently.
+
 **Core technologies**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
