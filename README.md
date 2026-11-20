@@ -3,13 +3,18 @@
 **Machine Learning · Sensor Fusion · Measurement & Control Engineering · Embedded Systems**
 
 <p align="justify">
+I am a doctoral researcher in Measurement and Control Engineering at the <strong>University of Bayreuth, Germany</strong>, with a background in mechatronics and industrial R&D.
+</p>
 
-I am a doctoral researcher in Measurement and Control Engineering at the **University of Bayreuth, Germany**, with a background in mechatronics and industrial R&D.
+<p align="justify">
+My work connects <strong>data-driven modeling and machine learning</strong> with real physical systems: from automated sensor measurements and signal processing to simulation, model development, and experimental validation. I also enjoy building robotics and computer-vision projects outside my research work.
+</p>
 
-My work connects **data-driven modeling and machine learning** with real physical systems: from automated sensor measurements and signal processing to simulation, model development, and experimental validation. I also enjoy building robotics and computer-vision projects outside my research work.
-
+<p align="justify">
 I speak Chinese, German, and English fluently.
 </p>
+
+
 **Core technologies**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
