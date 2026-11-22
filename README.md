@@ -24,7 +24,7 @@ I speak Chinese, German, and English fluently.
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00878F?style=for-the-badge&logo=arduino&logoColor=white)
 ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
-
+![KiCad](https://img.shields.io/badge/KiCad-EDA-1B4B8A?style=for-the-badge)
 
 ## Featured Projects
 ### [Automated Multi-Channel Impedance Spectroscopy](https://github.com/timeflowsinyou/Automated-MultiChannel-Impedance-Spectroscopy)
